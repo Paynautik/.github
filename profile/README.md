@@ -4,7 +4,7 @@
 
 <a href="https://paynautik.com"><img src="./paynautik-logo.png" width="130" alt="Paynautik logo"/></a>
 
-### Money that moves like information.
+### Wallet | Ledger | Payroll | Escrow | Savings | Tokenization
 
 </div>
 
