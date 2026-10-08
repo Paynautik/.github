@@ -52,4 +52,4 @@
 - **Join the team:** see [open roles](https://paynautik.com/careers).
 - **Talk to us:** [support@paynautik.com](mailto:support@paynautik.com)
 
-<p align="center"><sub>Paynautik is a financial technology company, not a bank. Product names and figures on this page are descriptive and not an offer of financial services.</sub></p>
+<p align="center"><sub>Paynautik® is a financial technology company, not a bank. Product names and figures on this page are descriptive and not an offer of financial services.</sub></p>
