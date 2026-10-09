@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner-paynautik-waves.png" alt="Paynautik: stablecoins, payments, payroll and asset tokenization for Africa"/>
+<img width="100%" src="./banner-paynautik-mark2.png" alt="Paynautik: stablecoins, payments, payroll and asset tokenization for Africa"/>
 
 ### Wallet | Ledger | Payroll | Escrow | Savings | Tokenization
 
